@@ -64,15 +64,15 @@ def mensaje(user, to, motivo, text):
     mail['Subject'] = subject
     mail['From'] = user
     mail['To'] = to
-    html_template="""<center><h1>%s</h1></center>
+    body="""<center><h1>%s</h1></center>
     <br>
     %s    
     <br><br><br><hr><center><p>This mail was sent using <a href='https://github.com/mmppppss/sgmail'>SGmail</a></p></center> 
     """%(motivo,text)
-    html_content = MIMEText(html_template, 'html')
-# text_content = MIMEText(text_template.format(email.split("@")[0]), 'plain')
+    html_content = MIMEText(body, 'html')
+# text= MIMEText(text_template.format(email.split("@")[0]), 'plain')
 
-#mail.attach(text_content)
+#mail.attach(text)
     mail.attach(html_content)
     try:
         server.sendmail(user,to,mail.as_string())
