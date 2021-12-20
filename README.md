@@ -6,7 +6,7 @@ install
 Option 1:
 Needs 
 git: 
-''' bash pkg install git'''
+``` bash pkg install git```
 
 Python:
 '''bash pkg install python
