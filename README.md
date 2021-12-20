@@ -7,10 +7,11 @@ Developed by: [mmppppss](https://youtu.be/dQw4w9WgXcQ)
 
 ## Option 1:
 
-Needs 
+Needs
+ 
 git: ```pkg install git```
-
-```pkg install python
+python: ```pkg install python```
+```
 git clone https://github.com/mmppppss/sgmail
 cd sgmail
 python sgmail.py
