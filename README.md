@@ -8,8 +8,7 @@ Needs
 git: 
 >pkg install git
 
-python:
-
+Python:
 >pkg install python
 
 >git clone https://github.com/mmppppss/sgmail
