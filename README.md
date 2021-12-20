@@ -2,15 +2,15 @@
 Send Google mails (gmail) with python very easy\n
 Developed by: mmppppss
 
->install
+install
 Needs 
-git: pkg install git 
-python: pkg install python
+git: >pkg install git 
+python: >pkg install python
 
-git clone https://github.com/mmppppss/sgmail
+>git clone https://github.com/mmppppss/sgmail
 
-cd sgmail\n
+>cd sgmail
 
-python sgmail.py
+>python sgmail.py
 
 
