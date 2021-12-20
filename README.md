@@ -6,16 +6,13 @@ install
 Option 1:
 Needs 
 git: 
->pkg install git
+''' bash pkg install git'''
 
 Python:
->pkg install python
-
->git clone https://github.com/mmppppss/sgmail
-
->cd sgmail
-
->python sgmail.py
+'''bash pkg install python
+git clone https://github.com/mmppppss/sgmail
+cd sgmail
+python sgmail.py'''
 
 
 Option 2:
