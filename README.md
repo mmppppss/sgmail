@@ -13,7 +13,8 @@ git: ```pkg install git```
 ```pkg install python
 git clone https://github.com/mmppppss/sgmail
 cd sgmail
-python sgmail.py```
+python sgmail.py
+```
 
 ## Option 2:
 
