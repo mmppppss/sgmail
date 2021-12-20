@@ -5,8 +5,10 @@ Developed by: mmppppss
 install
 Needs 
 git: 
->pkg install git 
-python: 
+>pkg install git
+
+python:
+
 >pkg install python
 
 >git clone https://github.com/mmppppss/sgmail
