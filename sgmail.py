@@ -57,10 +57,6 @@ except FileNotFoundError as e:
     except IOError as e:
         print("IOError")
         exit()
-        
-
-
-
 
 #mensaje
 def mensaje(user, to, motivo, text):
@@ -84,10 +80,7 @@ def mensaje(user, to, motivo, text):
     except: 
         print("error")
 
-
-
-
-
+#menu
 menu="""
 GMSend 
 Google mail sender
