@@ -18,5 +18,7 @@ python sgmail.py
 
 ## Option 2:
 
-```curl -s https://raw.githubusercontent.com/mmppppss/sgmail/main/sgmail.py>sgmail.py
-python sgmail.py```
+```
+curl -s https://raw.githubusercontent.com/mmppppss/sgmail/main/sgmail.py>sgmail.py
+python sgmail.py
+```
