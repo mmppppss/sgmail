@@ -1,5 +1,5 @@
 # sgmail
-Send Google mails (gmail) with python very easy\n
+Send Google mails (gmail) with python very easy
 Developed by: mmppppss
 
 install
