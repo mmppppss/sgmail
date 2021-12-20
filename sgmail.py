@@ -6,9 +6,6 @@ Github: https://github.com/mmppppss
 Twitter: @mmppppss
 Facebook: Pedro Pozo
 '''
-
-
-
 import smtplib
 import sys
 from os import system
@@ -116,4 +113,3 @@ elif opcion==3:
 elif opcion==0:
     print("Adios :3")
     exit()
-
