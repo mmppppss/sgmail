@@ -10,12 +10,10 @@ Option 1:
 Needs 
 git: ```pkg install git```
 
-Python:
-```bash pkg install python
+```pkg install python
 git clone https://github.com/mmppppss/sgmail
 cd sgmail
 python sgmail.py```
-
 
 Option 2:
 
