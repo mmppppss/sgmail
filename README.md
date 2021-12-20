@@ -10,6 +10,7 @@ Developed by: [mmppppss](https://youtu.be/dQw4w9WgXcQ)
 Needs
  
 git: ```pkg install git```
+
 python: ```pkg install python```
 ```
 git clone https://github.com/mmppppss/sgmail
