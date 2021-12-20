@@ -2,9 +2,9 @@
 Send Google mails (gmail) with python very easy
 Developed by: mmppppss
 
-install
+##Install
 Option 1:
-###Needs 
+Needs 
 git: ```pkg install git```
 
 Python:
