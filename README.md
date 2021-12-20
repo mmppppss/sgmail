@@ -4,9 +4,8 @@ Developed by: mmppppss
 
 install
 Option 1:
-Needs 
-git: 
-``` bash pkg install git```
+###Needs 
+git: ```pkg install git```
 
 Python:
 '''bash pkg install python
