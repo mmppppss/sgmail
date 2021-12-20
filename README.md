@@ -12,7 +12,9 @@ Python:
 >pkg install python
 
 >git clone https://github.com/mmppppss/sgmail
+
 >cd sgmail
+
 >python sgmail.py
 
 
