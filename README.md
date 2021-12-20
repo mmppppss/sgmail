@@ -5,7 +5,7 @@ Developed by: mmppppss
 
 ## Install
 
-Option 1:
+## Option 1:
 
 Needs 
 git: ```pkg install git```
@@ -15,7 +15,7 @@ git clone https://github.com/mmppppss/sgmail
 cd sgmail
 python sgmail.py```
 
-### Option 2:
+## Option 2:
 
 ```curl -s https://raw.githubusercontent.com/mmppppss/sgmail/main/sgmail.py>sgmail.py
 python sgmail.py```
